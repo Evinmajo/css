@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.parent{
+ position: relative;
+}
+img {
+    height: 100vh;
+    width: 100%;
+}
+.firstsection {
+position: absolute;
+top: 2%;
+right: 1%;
+left: 70%;
+font-size: 25px;
+
+}
+.lastsection {
+     position: absolute;
+     top: 20%;
+     right: 1%;
+     left: 50%;
+
+}
+.lastsection h3 {
+    padding-bottom: 20px;
+    font-size: 40px;
+}
+.lastsection h1 {
+    font-size: 60px;
+}
+p {
+    padding-top: 30px;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
