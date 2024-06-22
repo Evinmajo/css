@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+
+.links {
+    position: absolute;
+    left: 18%;
+    color: #660805;
+
+}
+.links h1{
+    padding-right: 30%;
+    
+}
+.links a {
+    padding-left: 4%;
+    color: #660805;
+    text-decoration: none;
+    
+    
+}
+.square {
+    position: absolute;
+    background-color: #e6664c;
+    border-radius: 1%;
+    height: 80vh;
+    width: 70%;
+    top: 15%;
+    left: 15%;
+    right: 15%;
+    
+}
+.circle {
+   
+    position: absolute;
+    background-color: #cc5244;
+    border-radius: 50%;
+    height: 80vh;
+    width: 35vw;
+    top: 15%;
+    right: 15%;
+
+    
+}
+.contenthead {
+    position: absolute;
+    object-fit: cover;
+    color: beige;
+    top: 30%;
+    left: 25%;
+    width: %;
+    font-size: 120%;
+}
+.content {
+    position: absolute;
+    color: antiquewhite;
+    top: 55%;
+    left: 25%;
+    width: 20%;
+}
+img{
+    height: 55vh;
+    width: 13vw;
+}
+.img {
+    position: absolute;
+    top: 40%;
+    left: 68%;
+}
+.button {
+    position: absolute;
+    top: 78%;
+    left: 30%;
+    background-color: blanchedalmond;
+    border: 1px solid white;
+    height: 2vh;
+    width: 5vw;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    border-radius: 5%;
+}
+a{
+    color: black;
+    text-decoration: none;
+    
+
+}
