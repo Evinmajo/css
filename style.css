@@ -1,0 +1,63 @@
+#logo{
+    margin-right: 50%;
+}
+nav{
+    margin-top: 5%;
+}
+a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+}
+.row1{
+    margin-top: 5%;
+}
+.right{
+    background-color: black;
+}
+.new{
+    padding: 40px;
+}
+#new{
+    color: orange;
+    padding: 20px;
+}
+#head{
+    font-size: 60px;
+}
+#question{
+    color: rgb(179, 176, 176);
+}
+h5{
+    color: white;
+}
+#content{
+    font-size: 20px;
+
+}
+.readm{
+    background-color: orange;
+    margin-left: 10%;
+    margin-right: 63%;
+    padding-top: 8px;
+    padding-bottom: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.row2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#one{
+    color: orange;
+}
+#bottoms{
+    font-size: 15px;
+}
+.bottom{
+    padding-bottom: 10%;
+    padding-top: 2%;
+}
+.gap{
+    padding-top: 5%;
+}
